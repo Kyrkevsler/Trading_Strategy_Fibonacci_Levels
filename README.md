@@ -1,7 +1,5 @@
 # Fibonacci Retracement Trading Strategy
 
-
-
 A Python implementation of a trading strategy that uses Fibonacci retracement levels to identify potential support/resistance zones and generate trading signals.
 
 ## 📌 Table of Contents
@@ -19,9 +17,6 @@ A Python implementation of a trading strategy that uses Fibonacci retracement le
 - Customizable parameters
 
 ## 🏗 Code Structure
-
-### 📂 Main File
-`fib_strategy.py` - Contains all strategy logic and visualization code
 
 ### 📋 Core Functions
 
@@ -78,9 +73,6 @@ visualize_strategy(data, levels, price, signal, 45)
 - pandas >= 1.3.0
 - matplotlib >= 3.4.0
 - numpy >= 1.21.0
-
-
-
 
 
 
